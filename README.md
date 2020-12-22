@@ -1,1 +1,3 @@
-# Detection_of_Liver_Disease_Machine_learning
+ Detection_of_Liver_Disease using Machine_learning:
+Using Logistic Regression 
+ 
